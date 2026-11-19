@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "pythonw.exe ""C:\Users\Lakshya\OneDrive\Desktop\music_widget\main.py""", 0, False

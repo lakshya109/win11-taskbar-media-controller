@@ -1,0 +1,8 @@
+PyQt6>=6.6.0
+PyAudioWPatch>=0.2.12.6
+numpy>=1.26.0
+winrt-runtime>=2.1.0
+winrt-Windows.Foundation>=2.1.0
+winrt-Windows.Foundation.Collections>=2.1.0
+winrt-Windows.Media.Control>=2.1.0
+winrt-Windows.Storage.Streams>=2.1.0
