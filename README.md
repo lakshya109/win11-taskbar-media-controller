@@ -1,8 +1,9 @@
-# Win11 Taskbar Media Controller
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/d931a356-e4e4-4bf1-9072-3a2134bce8aa" /># Win11 Taskbar Media Controller
 
 A lightweight, borderless Windows 11 taskbar media controller built with Python, PyQt6, and WinRT GSMTC. Blends seamlessly onto the native taskbar while offering a real-time 12-band audio visualizer, interactive timeline scrubbing, and a frosted-glass hover card.
 
-![Demo](demo.png)
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f613972f-cc7a-49a1-91a3-00aa139bd5bc" />
+
 
 ## Features
 - **Seamless Borderless Overlay:** Strips native Windows 11 DWM borders (`DWMWA_BORDER_COLOR`) and uses 1/255 alpha hit-testing so controls float directly on the taskbar without a background box.
